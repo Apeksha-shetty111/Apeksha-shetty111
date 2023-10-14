@@ -9,13 +9,7 @@
 
 - 🌱 I’m currently learning **Full stack web development,**
 
-- 📝 I regularly write articles on [https://medium.com/@shettyapeksha21](https://medium.com/@shettyapeksha21)
-
-- 💬 Ask me about **Front-end development, node-js, Express .**
-
-- 📫 How to reach me **shettyapeksha21@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10zX56Q9VKLV5SqSV_u73kgYtp6_LhISc/view?usp=sharing](https://drive.google.com/file/d/10zX56Q9VKLV5SqSV_u73kgYtp6_LhISc/view?usp=sharing)
+- 💬 Ask me about **web development and other interesting stuffs .**
 
 - ⚡ Fun fact **I can strike up a conversation with anyone, anywhere, anytime. Whether it's about code, culture, or cats, I'm always up for a chat! Let's talk!**
 
