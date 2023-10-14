@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apeksha-shetty111&label=Profile%20views&color=0e75b6&style=flat" alt="apeksha-shetty111" /> </p>
 
-- 🌱 I’m currently learning **Full stack development,**
+- 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **web development and other interesting stuffs .**
 
