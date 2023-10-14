@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Apeksha-shetty111/Apeksha-shetty111/blob/main/gallery.png" width="1750" height="400" />
+<img src="https://github.com/Apeksha-shetty111/Apeksha-shetty111/blob/main/gallery.png" width="1750" height="300" />
 <h1 align="center">Hi 👋, I'm Apeksha Shetty</h1>
 <h3 align="center">Recent Information Science Graduate 🚀 | Passionate about Coding, Open Source, and Tech Innovation 🌟 | Ready to Contribute to Exciting Projects 🤝 | Lifelong Learner 📚 | Let's Connect and Code Together! 💻🔗</h3>
 
